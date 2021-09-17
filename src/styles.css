@@ -1,0 +1,29 @@
+.App {
+  padding: 1rem;
+  max-width: 600px;
+  font-family: sans-serif;
+  margin: auto;
+  text-align: start;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+button {
+  display: inline;
+  border-radius: 0.4rem;
+  border: 1px solid #10b981;
+  display: inline;
+  cursor: pointer;
+  color: black;
+  padding: 0.3rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+.output {
+  border-radius: 0.5rem;
+  border: 1px solid #d1d5db;
+  width: 70%;
+}
+hr {
+  margin-top: 1rem;
+}
